@@ -1,6 +1,6 @@
 <h1 align="center">🔴 🔒 Validador de Senha </h1>
 
-<p align="center">Nesse pequeno projeto elaborei um input estilizado. Esse input é interativo com o usuário, se caso a senha for fraca, o input ficará vermelho. Agora se caso a senha for forte, o input ficará verde. Tanto o script quanto o front-end foi criado por mim com JavaScript HTML e CSS Puro. Sem nenhum framework adicional.</b></p>
+<p align="center">Nesse pequeno projeto elaborei um input estilizado. Esse input é interativo com o usuário, se caso a senha for fraca, o input ficará vermelho. Agora se caso a senha for forte, o input ficará verde. Os scripts e a estilização foi criado por mim com JavaScript HTML e CSS Puro. Sem nenhum framework adicional.</b></p>
 
 ## Acessar o site: [Clique aqui](https://devluizgustavo.github.io/gamejokenpo/)
 
