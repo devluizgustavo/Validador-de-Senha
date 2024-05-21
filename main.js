@@ -20,7 +20,8 @@ eyeFc.addEventListener('click', e => {
 // Validação
 inp.addEventListener('input', e => {
     let error = true;
-    const havelyrics = /[a-zA-Z]/.test(inp.value);
+    const havelyrics = /[a-z]/.test(inp.value);
+    const haveToUpperCase = /[A-Z]/.test(inp.value);
     const haveNum = /[0-9]/.test(inp.value);
     const haveSpecialChar = /[!@#$%^&*(),.?":{}|<>]/.test(inp.value);
 
@@ -32,12 +33,12 @@ inp.addEventListener('input', e => {
         sucessText.remove();
     }
 
-    if (inp.value.length < 5 || !havelyrics || !haveNum || !haveSpecialChar) {
+    if (inp.value.length < 5 || !havelyrics || !haveNum || !haveSpecialChar || !haveToUpperCase) {
         error = false;
         showSend('Senha fraca', error);
     }
 
-    if (inp.value.length > 5 && havelyrics && haveNum && haveSpecialChar) {
+    if (inp.value.length > 5 && havelyrics && haveNum && haveSpecialChar && haveToUpperCase) {
         error = true;
         showSend('Senha forte', error)
     }
