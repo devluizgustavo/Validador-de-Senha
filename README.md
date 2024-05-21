@@ -30,7 +30,7 @@
 
 <hr>
 
-<h1 allign="center">🎁 Agradecimentos</h1>
+<h1 allign="center">🎁 Considerações Finais</h1>
 
 <p>Agradeço por ter chegado até aqui, esse projeto é pequeno e "simples", mais é algo muito útil para uma validação de front-end. Elaborei da maneira mais clean e menos poluída que consegui fazer. Não esqueça de testar acessando o link disponibilizado acima e acessar os scripts. Aceito opniões tanto positivas quanto negativas. Obrigado!</p>
 
