@@ -2,7 +2,7 @@
 
 <p align="center">Nesse pequeno projeto elaborei um input estilizado. Esse input é interativo com o usuário, se caso a senha for fraca, o input ficará vermelho. Agora se caso a senha for forte, o input ficará verde. Os scripts e a estilização foi criado por mim com JavaScript HTML e CSS Puro. Sem nenhum framework adicional.</b></p>
 
-## Acessar o site: [Clique aqui](https://devluizgustavo.github.io/gamejokenpo/)
+## Acessar o site: [Clique aqui](https://devluizgustavo.github.io/validaSenha/)
 
 <h2 allign="center">1. Painel Central</h2>
 <p>No centro superior tem uma aba informando ao usuário os critérios que a senha deve ter para ser considerada <b>FORTE.</b></p>
